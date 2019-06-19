@@ -8,7 +8,7 @@ This repository contains scripts which were used to generate three sets of featu
 
 #  Dataset and feature generation
 
-The fasta sequences used for training and testing of the model are located in folder "fasta_sequences". Pseudo PAS and true PAS sequences contain 606 bp with the hexamer located at position 301.
+The fasta sequences used for training and testing of the model are located in folders "fasta_sequences/training_data" and "fasta_sequences/testing_data", respectively. Pseudo PAS and true PAS sequences contain 606 bp with the conserved hexamer located at position 301.
 
 You can use human genome hg38 from GENCODE folder at EBI ftp server
 (ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_28/GRCh38.primary_assembly.genome.fa.gz)
