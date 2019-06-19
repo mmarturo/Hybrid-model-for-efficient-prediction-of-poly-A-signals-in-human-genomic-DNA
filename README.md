@@ -1,12 +1,12 @@
 
 # PolyA Prediction using Logistic Regression Model (LRM) and Deep Neural Networks (DNN)
 
-PolyA_Predicion_LRM_DNN is a novel method for predicting poly(A) signal (PAS) in human genomic DNA. It first utilizes signal processing transforms (Fourier-based and wavelet-based), statistics and position weight matrix PWM to generate sets of features that can help the poly(A) prediction problem to perform better due to the different aspects that these features offer. Then, it uses deep neural networks DNN and Logistic Regression Model (LRM) to distinguish between true PAS and pseudo PAS efficiently.  
+HybPAS is a novel method for predicting poly(A) signal (PAS) in human genomic DNA. It first utilizes signal processing transforms (Fourier-based and wavelet-based), statistics and position weight matrix PWM to generate sets of features that can help the poly(A) prediction problem to perform better due to the different aspects that these features offer. Then, it uses deep neural networks DNN and Logistic Regression Model (LRM) to distinguish between true PAS and pseudo PAS efficiently.  
 
 This repository contains scripts which were used to generate three sets of features, namely: signal processing-based, statistics-based and PWM-based features. Then, we use these features to train and then test the DNN and LRM models.
 
 
-#  Dataset and feature generation
+#  Dataset
 
 The fasta sequences used for training and testing of the model are located in folders "fasta_sequences/training_data" and "fasta_sequences/testing_data", respectively. Pseudo PAS and true PAS sequences contain 606 bp with the conserved hexamer located at position 301.
 
