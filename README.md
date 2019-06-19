@@ -11,7 +11,7 @@ For GENCODE annotation, you can use
 
 # Citation
 
-If you use HybPAS for your research, or incorporate our learning algorithms in your work, please cite:
+If you use these data or HybPAS for your research please cite:
 
 F. Albalawi, A. Chahid, X. Guo, S. Albaradei, A. Magana-Mora, B. R. Jankovic, M. Uludag, C. V. Neste, M. Essack, T.M. Laleg-Kirati, V. B. Bajic, “Efficient prediction of Poly(A) motifs human genomic DNA”. 2019. Methods, https://doi.org/10.1016/j.ymeth.2019.04.001 
 
