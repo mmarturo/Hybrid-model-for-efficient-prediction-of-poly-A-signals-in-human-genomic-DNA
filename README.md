@@ -38,7 +38,7 @@ http://dx.doi.org/10.17632/c495bkk9vf.1
 
 If you use HybPAS for your research, or incorporate our learning algorithms in your work, please cite:
 
-F. Albalawi, A. Chahid, X. Guo, S. Albaradei, A. Magana-Mora, B. R. Jankovic, M. Uludag, C. V. Neste, M. Essack, T.M. Laleg-Kirati1, V. B. Bajic, “Efficient prediction of Poly(A) motifs human genomic DNA”. Methods, 2019. https://doi.org/10.1016/j.ymeth.2019.04.001 
+F. Albalawi, A. Chahid, X. Guo, S. Albaradei, A. Magana-Mora, B. R. Jankovic, M. Uludag, C. V. Neste, M. Essack, T.M. Laleg-Kirati1, V. B. Bajic, “Efficient prediction of Poly(A) motifs human genomic DNA”. 2019. Methods, https://doi.org/10.1016/j.ymeth.2019.04.001 
 
 
 
